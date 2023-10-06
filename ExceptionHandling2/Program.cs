@@ -35,7 +35,9 @@ namespace ExceptionHandling1
         public InvalidEmpNameException(string msg) : base(msg)
         {
 
-        }
+                                        }
+
+
 
     }
 
